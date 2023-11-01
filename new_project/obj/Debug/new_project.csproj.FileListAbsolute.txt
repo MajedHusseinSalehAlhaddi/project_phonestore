@@ -1,0 +1,8 @@
+D:\ماجد الحدي_مستوى ثاني\البرمجة الكائنية عملي\new_project\new_project\obj\Debug\new_project.csproj.AssemblyReference.cache
+D:\ماجد الحدي_مستوى ثاني\البرمجة الكائنية عملي\new_project\new_project\obj\Debug\new_project.csproj.SuggestedBindingRedirects.cache
+D:\ماجد الحدي_مستوى ثاني\البرمجة الكائنية عملي\new_project\new_project\obj\Debug\new_project.csproj.CoreCompileInputs.cache
+D:\ماجد الحدي_مستوى ثاني\البرمجة الكائنية عملي\new_project\new_project\bin\Debug\new_project.exe.config
+D:\ماجد الحدي_مستوى ثاني\البرمجة الكائنية عملي\new_project\new_project\bin\Debug\new_project.exe
+D:\ماجد الحدي_مستوى ثاني\البرمجة الكائنية عملي\new_project\new_project\bin\Debug\new_project.pdb
+D:\ماجد الحدي_مستوى ثاني\البرمجة الكائنية عملي\new_project\new_project\obj\Debug\new_project.exe
+D:\ماجد الحدي_مستوى ثاني\البرمجة الكائنية عملي\new_project\new_project\obj\Debug\new_project.pdb
